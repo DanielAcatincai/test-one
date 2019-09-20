@@ -1,2 +1,3 @@
 I have made a change
 Edgard
+This is a change to show conflict

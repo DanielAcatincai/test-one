@@ -1,11 +1,1 @@
-I have made a change
-Edgard
-This is a change to show conflict
-i will make another change
-
-
-
-This is a second change
-
-
-And a third change
+This is a totally new file
